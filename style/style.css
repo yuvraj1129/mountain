@@ -46,7 +46,7 @@ html {
   color: rgb(0, 225, 255);
 }
 .container {
-  background-image: url("/img/woman1.jpg");
+  background-image: url("../img/woman1.jpg");
   background-color: #cccccc;
   background-position: 75% 25%;
 
@@ -197,7 +197,7 @@ html {
 .bg-img2 {
   /* The image used */
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)),
-    url("/img/bp.jpg");
+    url("../img/bp.jpg");
 
   width: 100%;
   /* Set a specific height */
